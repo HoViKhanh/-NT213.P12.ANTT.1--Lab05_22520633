@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "367550671746",
+    "firebase_url": "https://android-63710-default-rtdb.firebaseio.com",
+    "project_id": "android-63710",
+    "storage_bucket": "android-63710.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367550671746:android:b8871a714e3b0585dfbd9b",
+        "android_client_info": {
+          "package_name": "com.example.vikaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfs51C0dtYPLFOP_gkhL43PC888JijZo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
